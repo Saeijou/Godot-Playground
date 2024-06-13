@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cs5thaq15yhxf"
+path="res://.godot/imported/Scale Mail Lower Leg L Side.png-f1d4767f515d45bcfad18a4f3c5f765c.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/2D Customizable Characters/Characters/Male/Images/Equipment/Pants/Scale Mail Lower Leg L Side.png"
+dest_files=["res://.godot/imported/Scale Mail Lower Leg L Side.png-f1d4767f515d45bcfad18a4f3c5f765c.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.5
+compress/hdr_compression=1
+compress/normal_map=2
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=1
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=0
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=2048
+detect_3d/compress_to=0

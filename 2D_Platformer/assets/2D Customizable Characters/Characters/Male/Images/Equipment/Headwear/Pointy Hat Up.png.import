@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bmcg5dgnvko2t"
+path="res://.godot/imported/Pointy Hat Up.png-3ecb1be03c2017f3f060faad7a347322.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/2D Customizable Characters/Characters/Male/Images/Equipment/Headwear/Pointy Hat Up.png"
+dest_files=["res://.godot/imported/Pointy Hat Up.png-3ecb1be03c2017f3f060faad7a347322.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.5
+compress/hdr_compression=1
+compress/normal_map=2
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=1
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=0
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=2048
+detect_3d/compress_to=0
